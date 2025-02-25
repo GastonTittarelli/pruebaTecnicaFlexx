@@ -451,22 +451,22 @@
       "age": 32
     },
     {
-      "username": "maxPower",
-      "email": "max1@mail.com",
-      "name": "Max",
-      "lastname": "Power",
+      "username": "user48",
+      "email": "leah.hill@example.com",
+      "name": "Leah",
+      "lastname": "Hill",
       "status": "inactive",
-      "age": 22,
-      "id": "91803b10-a5b8-4b4f-a270-11de8056d721"
+      "age": "30",
+      "id": "85388f70-3fce-4fe5-b666-cc676eb9a83b"
     },
     {
-      "id": "77ce11a7-a339-42e3-841b-c568db757160",
-      "username": "maxpower1",
-      "email": "max@mail.com",
-      "name": "Max",
-      "lastname": "Power",
+      "username": "maxPower",
+      "email": "leah.hill@example.com",
+      "name": "Leah",
+      "lastname": "Hill",
       "status": "active",
-      "age": 22
+      "age": "12",
+      "id": "6a2656a5-7fdd-4c99-bc8c-5d92bc41992e"
     }
   ]
 }
