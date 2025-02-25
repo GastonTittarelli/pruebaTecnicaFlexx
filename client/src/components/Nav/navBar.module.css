@@ -1,0 +1,20 @@
+.navBarContainer{
+  background-color: rgb(245, 245, 245);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80px;
+  width: 100%;
+}
+
+.anchors{
+  width: 90%;
+  height: 20px;
+  color: gray;
+  font-size: .9rem;
+}
+
+.anchors strong{
+  color: black;
+  font-weight: 500;
+}
